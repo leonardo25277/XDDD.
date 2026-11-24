@@ -701,7 +701,7 @@ GameObject:
   - component: {fileID: 1989190081}
   - component: {fileID: 1989190080}
   m_Layer: 0
-  m_Name: Mapa pixelado de pradera y bosque_0
+  m_Name: mapa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
